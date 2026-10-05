@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+*.csv
+*.npz
+*.pkl
+*.h5
+*.hdf5
+*.npy
+
+# Outputs and cache
+outputs/
